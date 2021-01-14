@@ -1,0 +1,28 @@
+.tableHeader{
+    font-weight: bold!important;
+    
+}
+.customTable{
+    
+}
+
+.customPagination{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.customPagination:hover{
+    cursor: pointer;
+}
+.page{
+    position: relative;
+    bottom: 6px;
+    left: 8px;
+    font-weight: bold;
+}
+.icono{
+    font-size: 22px!important;
+    margin-right: 10px!important;
+}
+.icono:hover{
+    cursor: pointer;
+}
